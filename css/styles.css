@@ -1,0 +1,7 @@
+body {
+  padding: 5%;
+}
+
+#results, #republican, #democrat, #centrist {
+  display: none;
+}
